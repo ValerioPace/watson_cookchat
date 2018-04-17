@@ -1,0 +1,25 @@
+{
+  "name": "@valerio.pace/watson_cookchat",
+  "version": "1.0.0",
+  "description": "Watson Cooking Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValerioPace"
+  },
+  "keywords": [
+    "watson",
+    "cookchatbot"
+  ],
+  "author": "Valerio Pace",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-simple-chatbot": "^0.2.9",
+    "styled-components": "^2.0.1"
+  }
+}
